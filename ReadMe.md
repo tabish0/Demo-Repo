@@ -1,3 +1,3 @@
 #Demo 
 
-It is for demo.
+It is for demo only.
